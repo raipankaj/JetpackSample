@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JetComposeLogin</string>
+
+    <string name="toolbar_login">Jetpack Login</string>
+    <string name="greeting">Good Morning!</string>
+
+    <string name="login_hint_enter_username">Enter Username</string>
+    <string name="login_hint_enter_password">Enter Password</string>
+    <string name="login_placeholder_username">Enter the email id</string>
+</resources>
